@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "sale_item": [
+    { "item_id": "0", "item_img": "./img/0/image.jpg", "item_mark":"AMD", "item_model":"Ryzen 7 3600X", "item_price":"$ 219.99", "item_sku":"9SIA24G9N33349", "item_available":"33", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" },
+    { "item_id": "1", "item_img": "./img/1/image.jpg", "item_mark":"AMD", "item_model":"Ryzen 7 3600X", "item_price":"$ 219.99", "item_sku":"9SIA24G9N33349", "item_available":"33", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" },
+    { "item_id": "2", "item_img": "./img/2/image.jpg", "item_mark":"AMD", "item_model":"Ryzen 7 3600X", "item_price":"$ 219.99", "item_sku":"9SIA24G9N33349", "item_available":"33", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
