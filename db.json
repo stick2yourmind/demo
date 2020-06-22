@@ -4,6 +4,14 @@
     { "item_id": "1", "item_img": "./img/1/image.jpg", "item_mark":"ASUS", "item_model":"ROG STRIX B450-F GAMING", "item_price":"$ 129.99", "item_sku":"N82E16813119140", "item_available":"5", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" },
     { "item_id": "2", "item_img": "./img/2/image.jpg", "item_mark":"Crucial", "item_model":"CT1000P1SSD8", "item_price":"$ 119.99", "item_sku":"N82E16820156199", "item_available":"5", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" }
   ],
+  "sale_items": [
+    { "item_id": "0", "item_img": "./img/0/image.jpg", "item_mark":"AMD", "item_model":"Ryzen 7 3600X", "item_price":"$ 219.99", "item_sku":"9SIA24G9N33349", "item_available":"33", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" },
+    { "item_id": "1", "item_img": "./img/1/image.jpg", "item_mark":"ASUS", "item_model":"ROG STRIX B450-F GAMING", "item_price":"$ 129.99", "item_sku":"N82E16813119140", "item_available":"5", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido" },
+    { "item_id": "2", "item_img": "./img/2/image.jpg", "item_mark":"Crucial", "item_model":"CT1000P1SSD8", "item_price":"$ 119.99", "item_sku":"N82E16820156199", "item_available":"5", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido",
+    { "item_id": "3", "item_img": "./img/3/image.jpg", "item_mark":"Corsair", "item_model":"CC-9011035-WW", "item_price":"$ 168.99", "item_sku":"N82E16811139024", "item_available":"40", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido"}, 
+    { "item_id": "4", "item_img": "./img/4/image.jpg", "item_mark":"EVGA", "item_model":"220-G3-0650-Y1", "item_price":"$ 119.99", "item_sku":"N82E16817438094", "item_available":"11", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido",
+    { "item_id": "5", "item_img": "./img/4/image.jpg", "item_mark":"G.SKILL", "item_model":"F4-3200C16D-32GVK", "item_price":"$ 117.99", "item_sku":"N82E16820232091", "item_available":"101", "item_buyMessageAux":"Presione el boton comprar para finalizar el pedido"
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
